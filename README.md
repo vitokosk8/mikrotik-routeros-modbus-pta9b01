@@ -52,7 +52,7 @@ PT100 probe ──► PTA9B01 ──RS-485 (Modbus RTU, slave 1)──► MikroT
 
 ### Wiring
 
-![Wiring diagram](images/wiring.jpg)
+![Wiring diagram](images/wiring.jpeg)
 
 - **RS-485:** connect the module's **A+** and **B-** to the KNOT RS-485 terminal.
   Swapping A and B prevents communication.
